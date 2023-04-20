@@ -6,7 +6,7 @@ Frontend Developer React.js | Next.js | React Native
 
 * 🌍  I'm based in Paraguay
 * ✉️  You can contact me at [fredjhonas2016@gmail.com](mailto:fredjhonas2016@gmail.com)
-* 🧠  I'm learning Svelte
+* 🧠  I'm learning Svelte and Flutter
 * ⚡  Eventually worked on projects with other javascript frameworks
 
 ### Skills
