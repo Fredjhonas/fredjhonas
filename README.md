@@ -1,12 +1,12 @@
 Hi 👋 My name is Freddy Cabrera
 ===============================
 
-Frontend Developer React.js | Next.js | React Native
+Frontend Engineer | React & React Native Expert
 ----------------------------------------------------
 
 * 🌍  I'm based in Paraguay
-* ✉️  You can contact me at [fredjhonas2016@gmail.com](mailto:fredjhonas2016@gmail.com)
-* 🧠  I'm learning Svelte and Flutter
+* ✉️  You can contact me at [fjonas.cabrera@gmail.com](mailto:fjonas.cabrera@gmail.com)
+* 🧠  I'm learning Astro, Svelte and Flutter
 * ⚡  Eventually worked on projects with other javascript frameworks
 
 ### Skills
@@ -41,8 +41,8 @@ Frontend Developer React.js | Next.js | React Native
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/752345434881523814" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/fredjhonas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/freddy-cabrera-a47830165" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/752345434881523814" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/freddy-cabrera-a47830165" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<a href="https://github.com/fredjhonas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredjhonas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fredjhonas)](https://github.com/fredjhonas/github-readme-stats)
