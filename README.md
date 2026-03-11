@@ -2,8 +2,9 @@ Hi 👋 My name is Freddy Cabrera
 ===============================
 
 Frontend Engineer | React & React Native | TypeScript | Next.js
-Focusing on performance and scalable architecture.
 ----------------------------------------------------
+
+Focusing on performance and scalable architecture
 
 * 🌍  I'm based in Paraguay
 * ✉️  You can contact me at [fjonas.cabrera@gmail.com](mailto:fjonas.cabrera@gmail.com)
