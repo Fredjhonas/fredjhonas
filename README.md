@@ -1,7 +1,8 @@
 Hi 👋 My name is Freddy Cabrera
 ===============================
 
-Frontend Engineer | React & React Native Expert
+Frontend Engineer | React & React Native | TypeScript | Next.js
+Focusing on performance and scalable architecture.
 ----------------------------------------------------
 
 * 🌍  I'm based in Paraguay
